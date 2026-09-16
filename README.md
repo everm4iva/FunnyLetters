@@ -3,8 +3,8 @@ You click, a character jumps from the bottom of your screen, does this trail fun
 
 - **License:** PFF (pure freedom forever)
 
-- **Creators:** Claude Code
+- **Creators:** Claude Code (not me)
 
-- **Note:** this was vibecoded, i hate vibecoding in general - and i tried it because i was curious, im just a human.
+- **Note:** this shit was vibe-coded. Just wanted to test making a simple and cute thing - not a real product or project.
 
 Have fun!
